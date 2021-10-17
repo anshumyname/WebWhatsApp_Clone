@@ -4,8 +4,11 @@ In this project I have aimed to make a clone of web whatsapp with most basic fea
 
 ## Demo
 
+### UI TOUR
 ![UI TOUR](https://github.com/anshumyname/WebWhatsApp_Clone/blob/main/demo/ui_tour.gif)
 
+
+### LIVE CHAT
 ![LIVE CHAT](https://github.com/anshumyname/WebWhatsApp_Clone/blob/main/demo/live_chat.gif)
 
 
