@@ -12,5 +12,5 @@ In this project I have aimed to make a clone of web whatsapp with most basic fea
 
 
 ## Architechture
-![Diagram]("https://github.com/anshumyname/WebWhatsApp_Clone/demo/webwap.png")
+![Diagram]("https://github.com/anshumyname/WebWhatsApp_Clone/blob/main/demo/webwap.png")
 
